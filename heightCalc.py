@@ -9,6 +9,7 @@ IMPLEMENTED:
 +cv2.findContours is used in extracting v-component (improved detection with blue color detection filter only)
 +horizontal ground line implemented, horizontal ground coordinates and moving object coordinates catching
 +check if letter typed implemented
++height distance and hit - distance between user's arm and printed keyboard - when distance is aprox 0, keystroke hit is detected
 
 @author: Dominik
 """
